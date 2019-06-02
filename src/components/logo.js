@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
-import Logo from './logo';
+
+
+
 class Logo extends Component {
   render() {
     return (
